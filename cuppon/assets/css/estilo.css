@@ -1,0 +1,33 @@
+.parrafito{
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+footer{
+    text-align: center;
+}
+
+
+img{
+    width: 280px;
+    height: 380px;
+}
+
+.cardP{
+
+    display: inline-block;
+
+}
+.col2{
+    text-align: center;
+
+}
+
+.rowP{
+    padding: 1em 0;
+}
+
+
+div.center {
+    text-align: center;
+  }
